@@ -29,7 +29,7 @@
     <div class="cv-header">
       <h1>Curriculum Vitae</h1>
       <p><strong>Waqas Ahmad</strong></p>
-      <p>Email: MRWAQASAHMADYOUSAFZAI@GMAIL.COM | Phone: 03420491002 | Location: Buner, Pakistan</p>
+      <p>Email: mrwaqasahmadyousafzai@gmail.com | Phone.NO +923420491002 | Location: Buner, Pakistan</p>
     </div>
 
     <div>
